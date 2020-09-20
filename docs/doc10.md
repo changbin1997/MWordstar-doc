@@ -1,0 +1,66 @@
+---
+id: doc10
+title: 友情链接
+---
+
+友情链接分为 `全站友情链接`、`首页友情链接`、`内页友情链接`。全站友情链接会在每个页面的侧边栏显示，首页友情链接会在首页的侧边栏显示，内页友情链接只会在友情链接的页面显示。
+
+## 设置全站友情链接
+
+在 `全站友情链接` 的输入框填写 JSON 数据，如下：
+
+```json
+[
+    {
+        "url": "https://www.baidu.com",
+        "name": "百度",
+        "title": "百度一下，你就知道。"
+    },
+    {
+        "url": "https://www.misterma.com",
+        "name": "Mr. Ma`s Blog",
+        "title": "我的编程学习笔记和一些计算机的实用教程"
+    }
+]
+```
+
+其中 `url` 和 `name` 是必填项，`title` 如果省略，简介区域会显示为 `暂无简介`。
+
+全站友情链接的截图如下：
+
+![MWordstar全站友链](https://www.misterma.com/img/MWordStar%E4%B8%BB%E9%A2%98%E5%85%A8%E7%AB%99%E5%8F%8B%E9%93%BE%E6%88%AA%E5%9B%BE.jpeg)
+
+## 设置首页友情链接
+
+设置首页友情链接的方法和全站友情链接差不多，在 `首页友情链接` 的输入框中输入 JSON 数据，数据格式和全站友情链接是一样的。
+
+首页友情链接的效果和全站友情链接的效果差不多，只是首页友情链接只会在首页显示。
+
+## 设置内页友情链接
+
+新建一个独立页面，把 `自定义模板` 设置为 `友情链接`。
+
+在主题设置的 `独立页友情链接` 输入框中填写 JSON 数据，如下：
+
+```json
+[
+    {
+        "url": "https://www.baidu.com",
+        "name": "百度",
+        "title": "百度一下，你就知道。",
+        "logoUrl": "https://tupp.xyz/2019/08/05/15650063025d4819debebc6.jpg"
+    },
+    {
+        "url": "https://www.misterma.com",
+        "name": "Mr Ma`s Blog",
+        "title": "我的编程学习笔记和一些计算机的实用教程",
+        "logoUrl": "https://www.misterma.com/img/%E5%8D%9A%E5%AE%A2Logo.png"
+    }
+]
+```
+
+`logoUrl` 如果省略，在 Logo 区域会显示链接图标。
+
+独立页友情链接截图如下：
+
+![MWordStar独立页友情链接截图](https://www.misterma.com/img/MWordStar%E4%B8%BB%E9%A2%98%E5%86%85%E9%A1%B5%E5%8F%8B%E9%93%BE%E6%88%AA%E5%9B%BE.png)

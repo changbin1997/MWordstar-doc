@@ -1,0 +1,12 @@
+---
+id: update
+title: 主题更新
+---
+
+在更新之前可以先在主题设置中导出主题配置文件，然后切换到其它主题，然后删除 MWordStar。
+
+到 [https://github.com/changbin1997/MWordStar/releases](https://github.com/changbin1997/MWordStar/releases) 下载最新版本的主题，下载完成后解压，然后上传到 Typecho 目录下的 `usr/themes/` 目录，然后选择 `启用`。
+
+启用后进入主题设置，选择 `导入主题配置文件`，导入完成后会询问是否保存设置。
+
+更新主题也可以不切换主题，但是新增选项的默认值可能不会生效，需要手动设置。
