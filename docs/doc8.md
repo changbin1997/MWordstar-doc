@@ -30,4 +30,9 @@ title: 评论区
 
 Emoji 表情面板截图如下：
 
-![MWordStar Emoji 表情面板](https://www.misterma.com/img/emoji%E9%9D%A2%E6%9D%BF.jpeg)
+![MWordStar Emoji 表情面板](https://www.misterma.com/img-admin/uploads/16043688114310.jpeg)
+
+## 使用 QQ 头像
+
+开启后如果检测到评论者使用 QQ号@qq.com 的邮箱地址时会显示 QQ 头像。显示 QQ 头像的邮箱只支持 QQ号@qq.com 的地址，不支持英文和 foxmail 地址。
+

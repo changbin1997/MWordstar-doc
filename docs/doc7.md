@@ -9,7 +9,7 @@ title: 文章内容区域
 
 以 [Sass 简单使用教程](https://www.misterma.com/archives/713/) 这篇文章为例，生成的目录如下：
 
-![MWordStar生成章节目录](https://www.misterma.com/img/js%E7%94%9F%E6%88%90%E7%9A%84%E6%96%87%E7%AB%A0%E7%9B%AE%E5%BD%95.jpg)
+![MWordStar生成章节目录](https://www.misterma.com/img-admin/uploads/16043699108171.jpg)
 
 ## 文章摘要字数
 

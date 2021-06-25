@@ -34,11 +34,11 @@ title: 侧边栏
 
 如下：
 
-![MWordStar博客信息设置](https://www.misterma.com/img/MWordStar%E5%8D%9A%E5%AE%A2%E4%BF%A1%E6%81%AF%E8%AE%BE%E7%BD%AE.jpeg)
+![MWordStar博客信息设置](https://www.misterma.com/img-admin/uploads/16043697149833.jpeg)
 
 博客信息效果如下：
 
-![MWordStar博客信息效果](https://www.misterma.com/img/MWordStar%E5%8D%9A%E5%AE%A2%E4%BF%A1%E6%81%AF%E6%95%88%E6%9E%9C.jpeg)
+![MWordStar博客信息效果](https://www.misterma.com/img-admin/uploads/16043697454070.jpeg)
 
 ### 最新文章
 
@@ -48,13 +48,13 @@ title: 侧边栏
 
 截图：
 
-![MWordStar侧边栏最新文章](https://www.misterma.com/img/MWordStar%E4%BE%A7%E8%BE%B9%E6%A0%8F%E6%9C%80%E6%96%B0%E6%96%87%E7%AB%A0.jpg)
+![MWordStar侧边栏最新文章](https://www.misterma.com/img-admin/uploads/16043804344081.jpg)
 
 ### 搜索
 
 截图如下：
 
-![MWordStar侧边栏搜索](https://www.misterma.com/img/MWordStar%E4%BE%A7%E8%BE%B9%E6%A0%8F%E6%90%9C%E7%B4%A2.jpg)
+![MWordStar侧边栏搜索](https://www.misterma.com/img-admin/uploads/16043804676669.jpg)
 
 搜索按钮的颜色使用的是主题配色设置的颜色。
 
@@ -64,7 +64,7 @@ title: 侧边栏
 
 截图如下：
 
-![MWordStar侧边栏最新回复](https://www.misterma.com/img/MWordStar%E4%BE%A7%E8%BE%B9%E6%A0%8F%E6%9C%80%E6%96%B0%E5%9B%9E%E5%A4%8D.jpg)
+![MWordStar侧边栏最新回复](https://www.misterma.com/img-admin/uploads/16043804959485.jpg)
 
 ### 文章分类
 
@@ -72,7 +72,7 @@ title: 侧边栏
 
 截图图下：
 
-![MWordStar侧边栏分类](https://www.misterma.com/img/MWordStar%E4%BE%A7%E8%BE%B9%E6%A0%8F%E5%88%86%E7%B1%BB.jpg)
+![MWordStar侧边栏分类](https://www.misterma.com/img-admin/uploads/16043805277164.jpg)
 
 ### 标签云
 
@@ -80,7 +80,9 @@ title: 侧边栏
 
 截图如下：
 
-![MWordStar侧边栏标签云](https://www.misterma.com/img/MWordStar%E4%BE%A7%E8%BE%B9%E6%A0%8F%E6%A0%87%E7%AD%BE%E4%BA%91.jpg)
+![MWordStar侧边栏标签云](https://www.misterma.com/img-admin/uploads/16043805518281.jpg)
+
+如果您的标签较多的话，可在 `侧边栏标签云标签数量` 中输入要显示的标签数量。
 
 ### 日历
 
@@ -88,7 +90,7 @@ title: 侧边栏
 
 截图如下：
 
-![MWordStar侧边栏日历](https://www.misterma.com/img/MWordStar%E4%BE%A7%E8%BE%B9%E6%A0%8F%E6%97%A5%E5%8E%86.jpg)
+![MWordStar侧边栏日历](https://www.misterma.com/img-admin/uploads/16043805754442.jpg)
 
 ### 文章归档
 
@@ -96,13 +98,13 @@ title: 侧边栏
 
 截图如下：
 
-![MWordstar侧边栏文章归档](https://www.misterma.com/img/MWordStar%E4%B8%BB%E9%A2%98%E4%BE%A7%E8%BE%B9%E6%A0%8F%E6%96%87%E7%AB%A0%E5%BD%92%E6%A1%A3%E6%88%AA%E5%9B%BE.jpeg)
+![MWordstar侧边栏文章归档](https://www.misterma.com/img-admin/uploads/16043695709968.jpeg)
 
 如果您的文章归档月份较多，可以在 `侧边栏文章归档月份数量` 中限制显示的月份数量。如果您启用了独立页面的文章归档的话，还可以在 `文章归档页面地址` 中输入独立页文章归档的地址，输入后在文章归档下方会显示 `查看更多` 的链接，点击就可以跳转到独立页文章归档。
 
 截图如下：
 
-![MWordStar限制月份数量的侧边栏文章归档](https://www.misterma.com/img/MWordStar%E4%BE%A7%E8%BE%B9%E6%A0%8F%E5%BD%92%E6%A1%A32.jpg)
+![MWordStar限制月份数量的侧边栏文章归档](https://www.misterma.com/img-admin/uploads/16043806617429.jpg)
 
 ### 其它功能
 
@@ -110,7 +112,7 @@ title: 侧边栏
 
 截图如下：
 
-![MWordStar侧边栏其它功能](https://www.misterma.com/img/MWordStar%E4%BE%A7%E8%BE%B9%E6%A0%8F%E5%85%B6%E5%AE%83%E5%8A%9F%E8%83%BD.jpg)
+![MWordStar侧边栏其它功能](https://www.misterma.com/img-admin/uploads/16043806868149.jpg)
 
 您也可以隐藏登录入口，隐藏后只能通过 `域名/admin/login.php` 进入登录页面。
 
@@ -128,4 +130,4 @@ title: 侧边栏
 
 下面是可以设置的组件：
 
-![MWordStar侧边栏移动设备显示设置](https://www.misterma.com/img/MWordStar%E4%BE%A7%E8%BE%B9%E6%A0%8F%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87%E6%98%BE%E7%A4%BA.jpg)
+![MWordStar侧边栏移动设备显示设置](https://www.misterma.com/img-admin/uploads/16043807179915.jpg)
