@@ -9,7 +9,7 @@ title: 站点信息
 
 下面是站点 Logo 的截图：
 
-![站点Logo截图](https://www.misterma.com/img-admin/uploads/16043802879345.jpg)
+![站点Logo截图](assets/16043802879345.jpg)
 
 站点 Logo 地址如果为空会使用 `域名/favicon.ico`，你也可以把 ico 图标命名为 `favicon.ico`，然后上传到 Typecho 的根目录。
 

@@ -28,7 +28,7 @@ title: 友情链接
 
 全站友情链接的截图如下：
 
-![MWordstar全站友链](https://www.misterma.com/img-admin/uploads/16043697812188.jpeg)
+![MWordstar全站友链](assets/16043697812188.jpeg)
 
 ## 设置首页友情链接
 
@@ -63,4 +63,4 @@ title: 友情链接
 
 独立页友情链接截图如下：
 
-![MWordStar独立页友情链接截图](https://www.misterma.com/img-admin/uploads/16043698156120.png)
+![MWordStar独立页友情链接截图](assets/16043698156120.png)

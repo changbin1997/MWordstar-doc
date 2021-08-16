@@ -34,11 +34,11 @@ title: 侧边栏
 
 如下：
 
-![MWordStar博客信息设置](https://www.misterma.com/img-admin/uploads/16043697149833.jpeg)
+![MWordStar博客信息设置](assets/16043697149833.jpeg)
 
 博客信息效果如下：
 
-![MWordStar博客信息效果](https://www.misterma.com/img-admin/uploads/16043697454070.jpeg)
+![MWordStar博客信息效果](assets/16043697454070.jpeg)
 
 ### 最新文章
 
@@ -48,13 +48,13 @@ title: 侧边栏
 
 截图：
 
-![MWordStar侧边栏最新文章](https://www.misterma.com/img-admin/uploads/16043804344081.jpg)
+![MWordStar侧边栏最新文章](assets/16043804344081.jpg)
 
 ### 搜索
 
 截图如下：
 
-![MWordStar侧边栏搜索](https://www.misterma.com/img-admin/uploads/16043804676669.jpg)
+![MWordStar侧边栏搜索](assets/16043804676669.jpg)
 
 搜索按钮的颜色使用的是主题配色设置的颜色。
 
@@ -64,7 +64,7 @@ title: 侧边栏
 
 截图如下：
 
-![MWordStar侧边栏最新回复](https://www.misterma.com/img-admin/uploads/16043804959485.jpg)
+![MWordStar侧边栏最新回复](assets/16043804959485.jpg)
 
 ### 文章分类
 
@@ -72,7 +72,7 @@ title: 侧边栏
 
 截图图下：
 
-![MWordStar侧边栏分类](https://www.misterma.com/img-admin/uploads/16043805277164.jpg)
+![MWordStar侧边栏分类](assets/16043805277164.jpg)
 
 ### 标签云
 
@@ -80,7 +80,7 @@ title: 侧边栏
 
 截图如下：
 
-![MWordStar侧边栏标签云](https://www.misterma.com/img-admin/uploads/16043805518281.jpg)
+![MWordStar侧边栏标签云](assets/16043805518281.jpg)
 
 如果您的标签较多的话，可在 `侧边栏标签云标签数量` 中输入要显示的标签数量。
 
@@ -90,7 +90,7 @@ title: 侧边栏
 
 截图如下：
 
-![MWordStar侧边栏日历](https://www.misterma.com/img-admin/uploads/16043805754442.jpg)
+![MWordStar侧边栏日历](assets/16043805754442.jpg)
 
 ### 文章归档
 
@@ -98,13 +98,13 @@ title: 侧边栏
 
 截图如下：
 
-![MWordstar侧边栏文章归档](https://www.misterma.com/img-admin/uploads/16043695709968.jpeg)
+![MWordstar侧边栏文章归档](assets/16043695709968.jpeg)
 
 如果您的文章归档月份较多，可以在 `侧边栏文章归档月份数量` 中限制显示的月份数量。如果您启用了独立页面的文章归档的话，还可以在 `文章归档页面地址` 中输入独立页文章归档的地址，输入后在文章归档下方会显示 `查看更多` 的链接，点击就可以跳转到独立页文章归档。
 
 截图如下：
 
-![MWordStar限制月份数量的侧边栏文章归档](https://www.misterma.com/img-admin/uploads/16043806617429.jpg)
+![MWordStar限制月份数量的侧边栏文章归档](assets/16043806617429.jpg)
 
 ### 其它功能
 
@@ -112,7 +112,7 @@ title: 侧边栏
 
 截图如下：
 
-![MWordStar侧边栏其它功能](https://www.misterma.com/img-admin/uploads/16043806868149.jpg)
+![MWordStar侧边栏其它功能](assets/16043806868149.jpg)
 
 您也可以隐藏登录入口，隐藏后只能通过 `域名/admin/login.php` 进入登录页面。
 
@@ -130,4 +130,4 @@ title: 侧边栏
 
 下面是可以设置的组件：
 
-![MWordStar侧边栏移动设备显示设置](https://www.misterma.com/img-admin/uploads/16043807179915.jpg)
+![MWordStar侧边栏移动设备显示设置](assets/16043807179915.jpg)

@@ -27,7 +27,7 @@ title: 文章设置
 
 开启显示原创声明后在文章底部会显示版权声明，如下：
 
-![MWordStar文章版权声明截图](https://www.misterma.com/img-admin/uploads/16043699543471.jpeg)
+![MWordStar文章版权声明截图](assets/16043699543471.jpeg)
 
 默认是开启的，如果您的文章不是原创的可以选择关闭。
 

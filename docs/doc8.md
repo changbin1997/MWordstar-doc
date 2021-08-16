@@ -30,7 +30,7 @@ title: 评论区
 
 Emoji 表情面板截图如下：
 
-![MWordStar Emoji 表情面板](https://www.misterma.com/img-admin/uploads/16043688114310.jpeg)
+![MWordStar Emoji 表情面板](assets/16043688114310.jpeg)
 
 ## 使用 QQ 头像
 
