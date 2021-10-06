@@ -20,6 +20,7 @@ module.exports = {
     'doc13',
     'doc14',
     'doc15',
+    'statistics-page',
     'update',
     'update-log',
   ],
