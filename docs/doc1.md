@@ -8,6 +8,8 @@ sidebar_label: 下载和安装
 
 访问 [https://github.com/changbin1997/MWordStar/releases](https://github.com/changbin1997/MWordStar/releases) 选择 `MWordStar-bundle.zip` 下载主题。
 
+如果你无法打开上面的下载地址，也可以访问 [https://pan.baidu.com/s/1uFlFkcEeZsSgNy4OKPm6vw](https://pan.baidu.com/s/1uFlFkcEeZsSgNy4OKPm6vw) 使用百度网盘下载，密码 `bcjh` ，进入博客主图下载文件夹后选择 MWordStar 的最高版本下载。
+
 ## 安装
 
 在 Github 的 [Releases](https://github.com/changbin1997/MWordStar/releases) 下载的主题是一个 `zip` 格式的压缩包，把压缩包上传到您的 `Typecho` 目录下的 `usr/themes/` 目录，上传完成后解压。
