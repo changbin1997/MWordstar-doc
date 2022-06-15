@@ -23,5 +23,6 @@ module.exports = {
     'statistics-page',
     'update',
     'update-log',
+	'sponsor'
   ],
 };

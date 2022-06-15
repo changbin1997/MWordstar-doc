@@ -36,7 +36,3 @@ Github 仓库地址：[https://github.com/changbin1997/MWordStar](https://github
 下面是不同配色的截图：
 
 ![MWordStar不同配色的截图](assets/16043687256363.jpg)
-
-扫描下面的二维码可在手机上预览
-
-![博客二维码](https://i.loli.net/2020/02/11/tBgUvqE1CcNHFLe.png)
