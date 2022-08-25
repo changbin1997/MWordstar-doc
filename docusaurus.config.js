@@ -11,7 +11,7 @@ module.exports = {
       title: 'MWordStar',
       links: [
         {
-          to: 'docs/doc0',
+          to: 'docs/简介',
           activeBasePath: '帮助文档',
           label: '帮助文档',
           position: 'left',
@@ -44,11 +44,11 @@ module.exports = {
           items: [
             {
               label: '简介',
-              to: 'docs/doc0',
+              to: 'docs/简介',
             },
             {
               label: '主题设置',
-              to: 'docs/doc2',
+              to: 'docs/进入主题设置',
             },
           ],
         },

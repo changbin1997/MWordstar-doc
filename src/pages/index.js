@@ -10,15 +10,14 @@ const features = [
   {
     title: <>响应式设计</>,
     imageUrl: 'img/phone-laptop.svg',
-    description: <>主题可以兼容 PC。Pad。手机。IE 浏览器最低可兼容到 IE9。部分动画可能需要 IE10 以上才能完美兼容。</>,
+    description: <>MWordStar 可以兼容 PC。Pad。手机。IE 浏览器最低可兼容到 IE9。部分动画可能需要 IE10 以上才能完美兼容。</>,
   },
   {
     title: <>代码高亮</>,
     imageUrl: 'img/laptop-code.svg',
     description: (
       <>
-        主题支持 30 多种语言的代码高亮，代码高亮的主题是 VS2015 的暗色主题，和
-        Visual Studio Code 的默认主题差不多。
+        MWordStar 支持 30 多种语言的代码高亮，代码高亮的主题包括 Stack Overflow（浅色）、VS2015（深色）、Sunburst（高对比度）。
       </>
     ),
   },
@@ -27,7 +26,7 @@ const features = [
     imageUrl: 'img/universal-access.svg',
     description: (
       <>
-        主题针对键盘和屏幕阅读器做了大量优化，能准确传达需要朗读的内容和信息，对于盲人来说，使用标准的屏幕阅读器基本可以无障碍操作。
+        MWordStar 针对键盘和屏幕阅读器做了大量优化，能准确传达需要朗读的内容和信息，对于盲人来说，使用标准的屏幕阅读器基本可以无障碍操作。
       </>
     ),
   },
@@ -36,7 +35,7 @@ const features = [
     imageUrl: 'img/cogs.svg',
     description: (
       <>
-        主题提供了丰富的设置选项，您可以根据喜好调整主题的配色、元素风格、侧边栏组件、以及个区域的显示和隐藏等。
+        MWordStar 提供了丰富的设置选项，您可以根据喜好调整主题的配色、元素风格、侧边栏组件、以及个区域的显示和隐藏等。
       </>
     ),
   },
@@ -55,7 +54,7 @@ const features = [
     imageUrl: 'img/archive.svg',
     description: (
       <>
-        主题提供了多种文章归档方案，其中包括按月份的侧边栏归档组件，按日期的侧边栏日历组件，按时间线的独立页归档模板。
+        MWordStar 提供了多种文章归档方案，其中包括按月份的侧边栏归档组件，按日期的侧边栏日历组件，按时间线的独立页归档模板。
       </>
     ),
   },
@@ -99,7 +98,7 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted
               )}
-              to={useBaseUrl('docs/doc0')}
+              to={useBaseUrl('docs/简介')}
             >
               开始使用
             </Link>
