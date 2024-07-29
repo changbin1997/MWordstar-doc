@@ -10,54 +10,62 @@ const features = [
   {
     title: <>响应式设计</>,
     imageUrl: 'img/phone-laptop.svg',
-    description: <>MWordStar 可以兼容 PC。Pad。手机。IE 浏览器最低可兼容到 IE9。部分动画可能需要 IE10 以上才能完美兼容。</>,
+    description: (
+      <>
+        MWordStar 可以兼容 PC。Pad。手机。IE 浏览器最低可兼容到 IE9。部分动画可能需要 IE10
+        以上才能完美兼容。
+      </>
+    )
   },
   {
     title: <>代码高亮</>,
     imageUrl: 'img/laptop-code.svg',
     description: (
       <>
-        MWordStar 支持 30 多种语言的代码高亮，代码高亮的主题包括 Stack Overflow（浅色）、VS2015（深色）、Sunburst（高对比度）。
+        MWordStar 支持 30 多种语言的代码高亮，代码高亮的主题包括 Stack
+        Overflow（浅色）、Github（深色）、Sunburst（高对比度）。
       </>
-    ),
+    )
   },
   {
     title: <>Accessibility</>,
     imageUrl: 'img/universal-access.svg',
     description: (
       <>
-        MWordStar 针对键盘和屏幕阅读器做了大量优化，能准确传达需要朗读的内容和信息，对于盲人来说，使用标准的屏幕阅读器基本可以无障碍操作。
+        MWordStar
+        针对键盘和屏幕阅读器做了大量优化，能准确传达需要朗读的内容和信息，对于盲人来说，使用标准的屏幕阅读器基本可以无障碍操作。
       </>
-    ),
+    )
   },
   {
     title: <>丰富的设置选项</>,
     imageUrl: 'img/cogs.svg',
     description: (
       <>
-        MWordStar 提供了丰富的设置选项，您可以根据喜好调整主题的配色、元素风格、侧边栏组件、以及个区域的显示和隐藏等。
+        你可以根据偏好调整主题的外观、导航、侧边栏、文章阅读、评论区，甚至连文章代码块是否显示行号你都可以自己决定。
       </>
-    ),
+    )
   },
   {
-    title: <>Emoji表情</>,
-    imageUrl: 'img/smile-wink.svg',
+    title: <>PJAX无刷新跳转</>,
+    imageUrl: 'img/browser.svg',
     description: (
       <>
-        在评论区包含一个 Emoji 表情面板，目前共有 1466
-        个表情，这些表情都是按照分类动态加载的，您不用担心性能问题。
+        当你点击链接时，浏览器会通过 AJAX
+        获取和更新页面内容，不会刷新整个页面，可以实现类似于单页应用的使用体验。
       </>
-    ),
+    )
   },
   {
-    title: <>文章归档</>,
-    imageUrl: 'img/archive.svg',
+    title: <>多套配色方案</>,
+    imageUrl: 'img/palette.svg',
     description: (
       <>
-        MWordStar 提供了多种文章归档方案，其中包括按月份的侧边栏归档组件，按日期的侧边栏日历组件，按时间线的独立页归档模板。
+        MWordStar 提供了 6
+        套配色方案，其中也包含深色模式的配色方案，你可以根据喜好选择配色，你还可以让访问用户切换深色或浅色模式。
       </>
-    ),
-  },
+    )
+  }
 ];
 
 function Feature({imageUrl, title, description}) {
