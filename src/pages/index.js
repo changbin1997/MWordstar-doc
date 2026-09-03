@@ -39,7 +39,7 @@ const features = [
   },
   {
     title: <>丰富的设置选项</>,
-    imageUrl: 'img/cogs.svg',
+    imageUrl: 'img/sliders-v.svg',
     description: (
       <>
         你可以根据偏好调整主题的外观、导航、侧边栏、文章阅读、评论区，甚至连文章代码块是否显示行号你都可以自己决定。
@@ -61,7 +61,7 @@ const features = [
     imageUrl: 'img/palette.svg',
     description: (
       <>
-        MWordStar 提供了 6
+        MWordStar 提供了 18
         套配色方案，其中也包含深色模式的配色方案，你可以根据喜好选择配色，你还可以让访问用户切换深色或浅色模式。
       </>
     )
